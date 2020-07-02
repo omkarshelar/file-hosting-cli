@@ -10,7 +10,7 @@ CLI application for temporary file hosting.
 
 **CLI Code :** https://github.com/omkarshelar/file-hosting-cli (This Repo)
 
-Ephermal hosting for files. Upload files, get URL of the uploaded file. Share the URl with others!
+Ephermal hosting for files. Upload files, get URL of the uploaded file. Share the URL with others!
 
 CLI application to automate file uploads. Can be used on the server or to automate file uploads using shell scripts.
 
