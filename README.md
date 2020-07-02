@@ -16,15 +16,15 @@ CLI application to automate file uploads. Can be used on the server or to automa
 
 
 You can run the application by running
-'''
+```
 npm install -g fha
-'''
-OR
-'''
+```
+OR if you are using npm version > `5.2.0` you can use
+```
 npx fha
-'''
+```
 
-'''
+```
 Usage:  [options]
 
 Options:
@@ -38,6 +38,6 @@ Example call:
 $ fha -f hello.txt
 $ fha -f hello.txt -e 30
 $ fha -f hello.txt -e 30 -p
-'''
+```
 
 The application needs an API Key to function to prevent misuse and keep hosting costs low, you can [contact me](https://omkarshelar.dev) for setting you own instance of the applcation using your own account
