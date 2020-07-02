@@ -4,7 +4,7 @@ const fs = require("fs");
 const mime = require("mime");
 const { program } = require("commander");
 
-program.version("1.1.0");
+program.version("1.2.0");
 
 program.requiredOption(
 	"-f, --file <path-to-file>",
@@ -21,6 +21,7 @@ program.on("--help", () => {
 	console.log("Example call:");
 	console.log("$ fha -f hello.txt");
 	console.log("$ fha -f hello.txt -e 30");
+	console.log("$ fha -f hello.txt -e 30 -p");
 });
 
 // If no arguments more arguments sent to application, display help.
