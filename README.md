@@ -15,8 +15,7 @@ Ephermal hosting for files. Upload files, get URL of the uploaded file. Share th
 CLI application to automate file uploads. Can be used on the server or to automate file uploads using shell scripts.
 
 ### Demo
-<asciinema-player src="/assets/demo.cast" poster="npt:00:03" speed="1.5" rows="40" cols="120"></asciinema-player>
-<script src="/assets/asciinema-player.js"></script>
+[![asciicast](https://asciinema.org/a/344592.svg)](https://asciinema.org/a/344592)
 
 You can run the application by running
 ```
