@@ -42,4 +42,7 @@ $ fha -f hello.txt -e 30
 $ fha -f hello.txt -e 30 -p
 ```
 
+#### Architectural Diagram :
+![File Hosting Architecture](/File-Hosting-App.svg "File Hosting Architecture")
+
 The application needs an API Key to function to prevent misuse and keep hosting costs low, you can [contact me](https://omkarshelar.dev) for setting you own instance of the applcation using your own account
